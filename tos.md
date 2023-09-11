@@ -49,7 +49,7 @@ Pyece may revise these terms of use for its web site at any time without notice.
 
 ### User Privacy
 
-Please read the [Privacy Policy](https://github.com/atboez/pyece/privacy.md).
+Please read the [Privacy Policy](https://github.com/atboez/pyece/blob/main/privacy.md)).
 
 ### Governing Law
 
