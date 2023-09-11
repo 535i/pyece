@@ -1,8 +1,3 @@
----
-title: Pyece Website | Terms and Conditions of Use
-description: Here you can read the Terms and Conditions of Use.
----
-
 # Pyece Website
 
 ## Terms and Conditions of Use
